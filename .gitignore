@@ -1,3 +1,6 @@
 FlightData
 aircrafts.csv
 flight_data.csv
+data
+*.parquet
+*.csv
