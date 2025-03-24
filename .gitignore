@@ -4,3 +4,4 @@ flight_data.csv
 data
 *.parquet
 *.csv
+venv
